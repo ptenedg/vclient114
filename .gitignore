@@ -1,2 +1,3 @@
 *.o
 vclient
+tests/run_tests
